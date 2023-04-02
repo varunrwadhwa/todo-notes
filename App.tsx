@@ -20,7 +20,6 @@ const App = ():JSX.Element => {
   return (
     <View>
       <Header/>
-
     </View>
   );
 }
